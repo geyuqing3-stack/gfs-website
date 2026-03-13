@@ -1,0 +1,15 @@
+---
+title: "About"
+---
+
+About this site
+# 个人简介
+- 姓名：葛方苏
+- 学号：2025303120139
+![我的头像](me.jpg){width=200px}
+## 技能
+- R 语言
+- Python
+- Quarto
+### 联系方式
+-Email：geyuqing3@gmail.com
