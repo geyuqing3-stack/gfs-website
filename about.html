@@ -111,8 +111,20 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#个人简介" id="toc-个人简介" class="nav-link active" data-scroll-target="#个人简介">个人简介</a>
+  <ul class="collapse">
+  <li><a href="#技能" id="toc-技能" class="nav-link" data-scroll-target="#技能">技能</a>
+  <ul class="collapse">
+  <li><a href="#联系方式" id="toc-联系方式" class="nav-link" data-scroll-target="#联系方式">联系方式</a></li>
+  </ul></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -136,9 +148,27 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>About this site # 个人简介 - 姓名：葛方苏 - 学号：2025303120139 <img src="me.jpg" class="img-fluid" width="200" alt="我的头像"> ## 技能 - R 语言 - Python - Quarto ### 联系方式 -Email：geyuqing3@gmail.com</p>
+<section id="个人简介" class="level1">
+<h1>个人简介</h1>
+<ul>
+<li>姓名：葛方苏</li>
+<li>学号：2025303120139 <img src="me.jpg" class="img-fluid" width="200" alt="我的头像"></li>
+</ul>
+<section id="技能" class="level2">
+<h2 class="anchored" data-anchor-id="技能">技能</h2>
+<ul>
+<li>R 语言</li>
+<li>Python</li>
+<li>Quarto</li>
+</ul>
+<section id="联系方式" class="level3">
+<h3 class="anchored" data-anchor-id="联系方式">联系方式</h3>
+<p>-Email：geyuqing3@gmail.com</p>
 
 
+</section>
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -214,7 +244,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/geyuqing3-stack\.github\.io\/gfs-website\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
