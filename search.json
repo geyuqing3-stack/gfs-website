@@ -2,14 +2,14 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "gfxss的个人主页",
+    "title": "葛方苏的个人主页",
     "section": "",
     "text": "学号：2025303120139\n专业：资源利用与植物保护\n方向：油菜抗病"
   },
   {
     "objectID": "index.html#关于我",
     "href": "index.html#关于我",
-    "title": "gfxss的个人主页",
+    "title": "葛方苏的个人主页",
     "section": "",
     "text": "学号：2025303120139\n专业：资源利用与植物保护\n方向：油菜抗病"
   },
@@ -18,13 +18,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "姓名：葛方苏\n学号：2025303120139 \n\n\n\n\nR 语言\nPython\nQuarto\n\n\n\n-Email：geyuqing3@gmail.com"
+    "text": "我的头像"
   },
   {
     "objectID": "about.html#技能",
     "href": "about.html#技能",
     "title": "About",
-    "section": "",
-    "text": "R 语言\nPython\nQuarto\n\n\n\n-Email：geyuqing3@gmail.com"
+    "section": "技能",
+    "text": "技能\n\nR 语言\nPython\nQuarto\n\n\n联系方式\n-Email：geyuqing3@gmail.com"
   }
 ]
